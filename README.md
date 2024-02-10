@@ -18,4 +18,8 @@ The model is implemented and trained in a Jupyter notebook:
 3. Run cells to process data and fit model
 4. Evaluate accuracy and loss curves
 
+## Dataset
+
+<p>Dataset is available at https://storage.googleapis.com/download.tensorflow.org/data/stack_overflow_16k.tar.gz</p>
+<br>
 The notebook provides opportunity to tweak parameters and experiment with changes to the model to improve accuracy such ascustom embeddings, new layers, etc.
